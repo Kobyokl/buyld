@@ -1,0 +1,3 @@
+C:/Users/yeetm/Desktop/CS/funCStuff/buyld/build/CMakeFiles/Buyld.dir
+C:/Users/yeetm/Desktop/CS/funCStuff/buyld/build/CMakeFiles/edit_cache.dir
+C:/Users/yeetm/Desktop/CS/funCStuff/buyld/build/CMakeFiles/rebuild_cache.dir
