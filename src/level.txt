@@ -1,5 +1,4 @@
 # TEST LEVEL (just a wall)
-
 # SECTOR DATA : <id> <num_walls> <wall_index> <ceiling_height> <floor_height>
 # WALL DATA : <index> <x1> <y1> <x2> <y2> <sec->sec>
 
