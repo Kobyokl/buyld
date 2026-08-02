@@ -1,0 +1,3 @@
+C:\msys64\ucrt64\bin\cmake.exe -E rm -f CMakeFiles\Buyld.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\Buyld.dir/objects.a @CMakeFiles\Buyld.dir\objects1.rsp
+C:\msys64\ucrt64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Buyld.dir/objects.a -Wl,--no-whole-archive -o Buyld.exe -Wl,--out-implib,libBuyld.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Buyld.dir\linkLibs.rsp

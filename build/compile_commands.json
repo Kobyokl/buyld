@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/yeetm/Desktop/CS/funCstuff/buyld/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles/Buyld.dir/includes_C.rsp -g -o CMakeFiles\\Buyld.dir\\src\\main.c.obj -c C:\\Users\\yeetm\\Desktop\\CS\\funCstuff\\buyld\\src\\main.c",
+  "file": "C:/Users/yeetm/Desktop/CS/funCstuff/buyld/src/main.c",
+  "output": "CMakeFiles/Buyld.dir/src/main.c.obj"
+}
+]
